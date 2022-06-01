@@ -7,7 +7,7 @@ title = 'IKFF'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Gallery"
+  name = "Moments"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
