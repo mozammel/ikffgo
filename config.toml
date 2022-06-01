@@ -33,7 +33,7 @@ title = 'IKFF'
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
-  footerDescription = " "
+  footerDescription = "Site under construction"
 
   [params.address]
   address = " "
