@@ -1,4 +1,4 @@
-baseURL = 'https://ikff.net'
+baseURL = 'https://mozammel.github.io/ikff'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
