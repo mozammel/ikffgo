@@ -28,7 +28,7 @@ title = 'IKFF'
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} coHub. Inc."
+  copyright = "© {year} IKFF"
   formspreeURL = "https://formspree.io/mbjwlead"
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
