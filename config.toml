@@ -61,5 +61,10 @@ title = 'IKFF'
   icon = "ti-instagram"
   url = "https://www.instagram.com/stevecotter_ikff/"
   weight = 3
+  [[params.social]]
+  icon = "ti-youtube"
+  url = "https://www.youtube.com/user/IKFFChannel"
+  weight = 4
+  
   
   
