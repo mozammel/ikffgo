@@ -7,13 +7,17 @@ title = 'IKFF'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Moments"
+  name = "Notice"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
+  name = "Certifications"
+  url= "#service"
+  weight = 2
+  [[menu.Main]]
   name = "Contact"
   url= "/contact/"
-  weight = 2
+  weight = 3
 
   # Sitemap Menu
   [[menu.sitemap]]

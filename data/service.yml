@@ -1,38 +1,30 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "Certifications"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          Since 2008 IKFF has established the global standard for excellence in the development
+          of Certified Kettlebell Trainers
 services:
-  - name: "largest Network"
+  - name: "CKT Level 1"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+                This course focuses development of mastery with single 
+                kettlebell exercises, and models how to teach and supervise 
+                these exercises to the training public in the most safe and effective manner.  
+    icon: "ti-widget"
+  - name: "CKT Level 2"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+                CKT Level 2 takes a deeper dive into the coaching and practice of the 
+                5 Pillars of the IKFF Kettlebell system as presented
+                in CKT Level 1 and expands into the mastery of double kettlebell training.
+    icon: "ti-medall"
+  - name: "Certified Movement Specialist"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
+                Certified Movement Specialist – CMS is the IKFF foundational course for bodyweight 
+                training with the use of minimal or no equipment beyond your own bodyweight.
+    icon: "ti-exchange-vertical"
+  - name: "CKT Recertification"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                All IKFF-certified trainers will stay current with his or her 
+                kettlebell practice by re-certifying every 2 years
+    icon: "ti-layout-grid3"
 ---
