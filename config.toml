@@ -12,7 +12,7 @@ title = 'IKFF'
   weight = 1
   [[menu.Main]]
   name = "Certifications"
-  url= "#service"
+  url= "#blog"
   weight = 2
   [[menu.Main]]
   name = "Contact"
