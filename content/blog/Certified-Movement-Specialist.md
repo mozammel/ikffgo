@@ -8,10 +8,14 @@ tags: ["Certification", "CMS"]
 
 - The Whip
 - Kick the Door
-- Warrior Walk & Kick
+- Belly Down
 - Around the World
 - Protection Walk
-- Belly Down
-- Eagle Kick
+- Warrior Walk & Kick
 - Rocking Chair
+- Eagle Kick
 - Machine Gun
+---
+
+{{< youtube bBFqAv_d3u0 >}}
+
