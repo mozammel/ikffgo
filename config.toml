@@ -1,4 +1,4 @@
-baseURL = 'https://mozammel.github.io/ikffgo'
+baseURL = 'https://ikff.net'
 languageCode = 'en-us'
 paginate = 6
 theme= "cohub"
@@ -12,7 +12,7 @@ title = 'IKFF'
   weight = 1
   [[menu.Main]]
   name = "Contact"
-  url= "../contact/"
+  url= "/contact/"
   weight = 2
 
   # Sitemap Menu
