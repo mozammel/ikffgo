@@ -1,4 +1,4 @@
-baseURL = 'https://mozammel.github.io/ikffgo/'
+baseURL = 'https://mozammel.github.io/'
 languageCode = 'en-us'
 paginate = 6
 theme= "cohub"
@@ -12,13 +12,13 @@ title = 'IKFF'
   weight = 1
   [[menu.Main]]
   name = "Contact"
-  url= "contact/"
+  url= "/contact/"
   weight = 2
 
   # Sitemap Menu
   [[menu.sitemap]]
   name = "Privacy Policy"
-  url = "privacy/"
+  url = "/privacy/"
   weight = 1
   [[menu.sitemap]]
   name = "Terms"
