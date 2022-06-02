@@ -1,7 +1,7 @@
 baseURL = 'https://mozammel.github.io/ikffgo'
 languageCode = 'en-us'
 paginate = 6
-theme= "coHub"
+theme= "cohub"
 title = 'IKFF'
  
 [Menu]
