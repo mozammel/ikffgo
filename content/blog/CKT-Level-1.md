@@ -92,3 +92,5 @@ Active Certification
 
 All IKFF–certified CKT and CMS trainers will maintain a commitment to continuous growth and development. The IKFF Assessments are how the CKT and CMS shows technical skill and is the criteria for professional standard. All CKT and CMS will stay current with technical practice,
 by re-certifying every 2 years.
+
+{{< youtube -gdKsQUvMGg >}}
