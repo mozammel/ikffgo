@@ -17,5 +17,12 @@ itemPrices:
     price: 15-25
     badge: 
     buttonTarget: "https://www.amazon.com/Steve-Cotter/e/B00FI1NJPY?ref=sr_ntt_srch_lnk_1&qid=1654598551&sr=8-1"
-
+  - packcage: "The Way Of The Kettlebell"
+    description: >
+                A six-day program that shows you the best, fastest, most
+                rewarding ways to adopt a kettlebell workout routine:
+                and reap all the benefits of this amazing fitness tool.
+    price: 25/m
+    badge: 
+    buttonTarget: "https://www.mindvalley.com/kettlebell"
 ---
