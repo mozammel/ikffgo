@@ -15,7 +15,7 @@ title = 'IKFF'
   url= "#blog"
   weight = 2
   [[menu.Main]]
-  name = "Courses & Books"
+  name = "Books & Courses"
   url= "#pricing"
   weight = 3
   [[menu.Main]]
