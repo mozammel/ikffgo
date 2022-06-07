@@ -1,27 +1,21 @@
 ---
 enable: true
-title: "Simple pricing for everyone"
+title: "Books & Courses by Steve Cotter"
 subtitle: >
-          Whether you're looking for a full-time workspace or are just visiting Melbourne,
-           we've got an option for everyone
+          
 buttonTarget: "contact"
 itemPrices:
-  - packcage: "Daily"
+  - packcage: "Kettlebells For Jiu Jitsu"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 19
+                Supercharge Your Grappling Performance with Kettlebell Practice
+    price: 77
     badge: 
-  - packcage: "Weekly"
+    buttonTarget: "https://bjjfanatics.com/products/kettlebells-for-jiu-jitsu-by-steve-cotter?view=new-layout"
+  - packcage: "Books"
     description: >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Libero exercitationem sed eius autem quisquam sapiente?
-    price: 79
-    badge: popular
-  - packcage: "Monthly"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
-                quas nesciunt vitae suscipit necessitatibus ea.
-    price: 99
-    badge:
+                Buy books written by Steve Cotter directly from Amazon.com
+    price: 15-25
+    badge: 
+    buttonTarget: "https://www.amazon.com/Steve-Cotter/e/B00FI1NJPY?ref=sr_ntt_srch_lnk_1&qid=1654598551&sr=8-1"
+
 ---

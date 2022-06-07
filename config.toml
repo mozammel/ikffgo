@@ -15,9 +15,13 @@ title = 'IKFF'
   url= "#blog"
   weight = 2
   [[menu.Main]]
+  name = "Courses & Books"
+  url= "#pricing"
+  weight = 3
+  [[menu.Main]]
   name = "Contact"
   url= "/contact/"
-  weight = 3
+  weight = 4
 
   # Sitemap Menu
   [[menu.sitemap]]
